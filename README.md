@@ -10,7 +10,7 @@
 ✔ **Quantity Sold**: **5,615**  
 ✔ **Average Order Value (AOV)**: **$121K**  
 
-We used **interactive filters, quarterly breakdowns, and state-wise analysis** to gain deeper insights.  
+I used **interactive filters, quarterly breakdowns, and state-wise analysis** to gain deeper insights.  
 
 ---
 
